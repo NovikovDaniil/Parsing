@@ -1,0 +1,9 @@
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\bin\Debug\Easy Parser.exe.config
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\bin\Debug\Easy Parser.exe
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\bin\Debug\Easy Parser.pdb
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\obj\Debug\Easy Parser.csprojAssemblyReference.cache
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\obj\Debug\Easy_Parser.MainForm.resources
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\obj\Debug\Easy_Parser.Properties.Resources.resources
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\obj\Debug\Easy Parser.csproj.GenerateResource.cache
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\obj\Debug\Easy Parser.exe
+C:\Users\Даниил Новиков\source\repos\Parsers\Easy Parser\obj\Debug\Easy Parser.pdb
